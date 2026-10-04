@@ -1,5 +1,5 @@
 name: Finance Tracker
-version: "0.1.1"
+version: "0.1.2"
 slug: finance_tracker
 description: Household finance tracker. Bank statement PDFs in, categorised spending and insights out.
 url: https://github.com/Bot-Benedict/finance-tracker-haos-addon
