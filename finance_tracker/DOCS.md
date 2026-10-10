@@ -24,6 +24,9 @@ own HA account (turn on multi-factor authentication under Profile → Security).
    add-on's `version`; nothing is built on the box.
 4. Configuration tab: set `anthropic_api_key`, save. Info tab: turn on Start on
    boot, Watchdog and Show in sidebar, then Start.
+   Statements are read on the box. The key is only used to send each
+   transaction's date, description and amount to Claude, which names the
+   merchant and suggests a category.
 
 ## Updates
 
